@@ -1,0 +1,13 @@
+{
+  "appiumServer": {
+    "host": "localhost",
+    "port": 4723
+  },
+  "dashboard": {
+    "host": "localhost",
+    "port": 1337
+  },
+  "logging": {
+    "level": "info"
+  }
+}
