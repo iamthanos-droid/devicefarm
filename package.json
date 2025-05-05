@@ -103,7 +103,7 @@
     "inquirer": "^10.1.8",
     "ios-mobileprovision-finder": "^1.1.0",
     "ip": "^1.1.8",
-    "jsonschema": "1.4.1",
+    "jsonschema": "1.5.0",
     "listr": "^0.14.3",
     "lodash": "4.17.21",
     "lokijs": "^1.5.12",
